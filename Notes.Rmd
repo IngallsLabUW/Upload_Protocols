@@ -38,3 +38,6 @@ Some older data may also have outdated names for compounds (see the Ingalls stan
 
 *MW (Metabolomics Workbench)*
 It will be helpful to know how to get lists of raw filenames from the Google drive or the local drives. WKumler's script has some tips on how to do this from the project directory for making the study table for MW. If you're familiar with shell scripts you can also use those.
+
+
+Hi KAte! I hope you have fun with this project.
