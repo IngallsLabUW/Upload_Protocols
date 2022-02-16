@@ -1,0 +1,18 @@
+For reversed phase (RP) chromatography, a Waters Acquity UPLC HSS Cyano column (1.8 µm particle size, 2.1 mm x 100 mm) equipped with a Waters Acquity UPLC HSS Cyano guard column (1.8 µm particle size, 2.1 mm x 5 mm) was used with 0.1% formic acid in water (Solvent A) and 0.1% formic acid in acetonitrile (Solvent B) at a flow rate of 0.4 mL/min. 
+The HSS Cyano column has previously been used for analysis of compounds in complex marine samples with robust reproducibility of peak size and shape. 
+The column was held at 5% B for 2 minutes, ramped to 100% B over 16 minutes, held at 100% B for 2 minutes, and equilibrated at 5% B for 5 minutes (25 minutes total). 
+The column was maintained at 35 C. 
+The injection volume was 15 µL for standard mixes and 5 µL for samples.
+When starting a batch, the column was equilibrated at the starting conditions for at least 10 minutes; 
+several water blanks were run before and throughout a batch. 
+After a batch, the column was flushed with 100% acetonitrile for 20 to 30 minutes.
+
+For HILIC chromatography, a SeQuant ZIC-pHILIC column (5 um particle size, 2.1 mm x 150 mm, from Millipore) was used with 10 mM ammonium carbonate in 85:15 acetonitrile to water (Solvent A) and 10 mM ammonium carbonate in 85:15 water to acetonitrile (Solvent B) at a flow rate of 0.15 mL/min. 
+This column was compared with a Waters UPLC BEH amide and a Millipore cHILIC column; 
+the pHILIC showed superior reproducibility and peak shapes. 
+The column was held at 100% A for 2 minutes, ramped to 64% B over 18 minutes, ramped to 100% B over 1 minute, held at 100% B for 5 minutes, and equilibrated at 100% A for 25 minutes (50 minutes total).
+The column was maintained at 30 C. 
+The injection volume was 2 µL for samples and standard mixes. 
+When starting a batch, the column was equilibrated at the starting conditions for at least 30 minutes. 
+To improve the performance of the HILIC column, we maintained the same injection volume, kept the instrument running water blanks between samples as necessary, and injected standards in a representative matrix in addition to standards in water. 
+After each batch, the column was flushed with 10 mM ammonium carbonate in 85:15 water to acetonitrile for 20 to 30 minutes.

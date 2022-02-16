@@ -1,0 +1,40 @@
+Kate,
+
+This repo is to show an example of how I usually organize things (as in the data_raw/extra/processed and src folders) and to gather past upload information into one place. I've included notes and potential stumbling blocks below.
+
+All of the code is in the src/ folder, including a script of functions that might be useful as you go through the upload process. 
+
+
+*Important things to note*
+
+This whole repository is a gathering of code from a few (two?) MESO SCOPE projects,
+so please keep that in mind as you look through the code and scripts. 
+
+Hopefully, this repo will gather together tools that you might use without providing a required formulaic process for working on the project.
+
+*General*
+Places to look if you can't find something:
+- The Collaborative Projects on the Shared Google Drive
+- The Ingalls Research Cruises sheet
+- The M Drive and the Q Drive, located locally or remote
+- The 2021 Ingalls M + Q Drive Org sheet, located on the Shared Google Drive
+- In some cases, the metadata might be in a cruise log or on the SCOPE website (http://scope.soest.hawaii.edu/data/)
+- Laura can help if none of the above resources pan out!
+
+Different softwares:
+We have used two softwares for metabolomics analysis over the years: MSDial and Skyline. The output data is different depending on which software has been used. Skyline outputs one file in "long" format, and MSDial outputs four files in "wide" format.
+- The targeted pipeline is your friend for managing formats; particularly for the four-file MSDial information.
+- Probably best to just review the targeted pipeline to understand what state the data is in.
+
+Conventions/termms used in the lab:
+Cyano is the same thing as RP for upload purposes, we changed the name at some point.
+MW = Metabolomics Workbench
+MS = MESO-SCOPE/MESOSCOPE, a 2017 cruise that incorporated several experiments and produced a large amount of data.
+
+*CMAP*
+Compound names must be SQL-safe. We have these names on the Ingalls Standards Sheet.
+
+Some older data may also have outdated names for compounds (see the Ingalls standards sheet for background on old/new compound names). Use the standards sheet to update compound names/make sure that you are using CMAP-safe names.
+
+*MW (Metabolomics Workbench)*
+It will be helpful to know how to get lists of raw filenames from the Google drive or the local drives. WKumler's script has some tips on how to do this from the project directory for making the study table for MW. If you're familiar with shell scripts you can also use those.

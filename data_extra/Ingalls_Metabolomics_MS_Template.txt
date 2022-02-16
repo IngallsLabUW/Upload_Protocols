@@ -1,0 +1,38 @@
+HILIC (1)
+Instrument Name: Thermo Q Exactive HF hybrid Orbitrap
+Instrument Type: Orbitrap
+MS Type: ESI
+Ion Mode: Positive
+MS acquisition Comments: Polarity switching was used with a scan range of 80 to 900 m/z and a resolution of 60,000. 
+A DDA method was used with a scan range of 80 to 900 m/z.
+Data processing Comments: Data was processed as in Boysen and Heal et al. 2018. Analytical Chemistry. 
+Software/procedures used for feature assignments: Peaks were integrated using Skyline. Data was processed using quality control and best-matched internal standard normalization.
+MS parameters were as follows: capillary temperature was 320 °C, the H-ESI spray voltage was 3.5 kV, and the auxiliary gas heater temperature was 90 °C. The
+S-lens RF level was 65. Sheath gas, auxiliary gas, and sweep gas flow rates were maintained
+at 16, 3, and 1, respectively. 
+
+HILIC (2)
+Instrument Name: Thermo Q Exactive HF hybrid Orbitrap
+Instrument Type: Orbitrap
+MS Type: ESI
+Ion Mode: Negative
+MS acquisition Comments: Polarity switching was used with a scan range of 80 to 900 m/z and a resolution of 60,000. 
+A DDA method was used with a scan range of 80 to 900 m/z.
+Data processing Comments: Data was processed as in Boysen and Heal et al. 2018. Analytical Chemistry. 
+Software/procedures used for feature assignments: Peaks were integrated using Skyline. Data was processed using quality control and best-matched internal standard normalization.
+MS parameters were as follows: capillary temperature was 320 °C, the H-ESI spray voltage was 3.5 kV, and the auxiliary gas heater temperature was 90 °C. The
+S-lens RF level was 65. Sheath gas, auxiliary gas, and sweep gas flow rates were maintained
+at 16, 3, and 1, respectively. 
+
+Reversed Phase (3)
+Instrument Name: Thermo Q Exactive HF hybrid Orbitrap
+Instrument Type: Orbitrap
+MS Type: ESI
+Ion Mode: Positive
+MS acquisition Comments: A full scan method was used with a scan range of 90 to 900 m/z and a resolution of 120,000.
+A DDA method was used with a scan range of 90 to 900 m/z.
+Data processing Comments: Data was processed as in Boysen and Heal et al. 2018. Analytical Chemistry. 
+Software/procedures used for feature assignments: Peaks were integrated using Skyline. Data was processed using quality control and best-matched internal standard normalization.
+MS parameters were as follows: capillary temperature was 320 °C, the H-ESI spray voltage was 3.8 kV, and the auxiliary gas heater temperature was 90 °C. The
+S-lens RF level was 65. Sheath gas, auxiliary gas, and sweep gas flow rates were maintained
+at 40, 10, and 1, respectively. 

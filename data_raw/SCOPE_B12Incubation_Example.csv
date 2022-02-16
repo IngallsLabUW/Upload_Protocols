@@ -1,0 +1,57 @@
+time,lat,lon,depth,compound,treatment_type,eddy_vorticity,size_fraction (um_,value (concentration)
+2017-07-04T08:55:00,25,158.5,15,2-Hydroxy-4-(methylthio)butyric acid,Time 0,Cyclonic,0.2,40000
+2017-07-04T08:55:00,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,Control,Cyclonic,0.2,59923
+2017-07-04T08:55:01,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,Deep Sea Water,Cyclonic,0.2,4209776
+2017-07-04T08:55:02,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,B12,Cyclonic,0.2,30995
+2017-07-04T08:55:03,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,noB12,Cyclonic,0.2,195719
+2017-07-04T08:55:04,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,DMB,Cyclonic,0.2,338593
+2017-07-04T08:55:00,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,DMBnoB12,Cyclonic,0.2,1334322
+2017-07-04T08:55:00,25,158.5,15,2-Hydroxy-4-(methylthio)butyric acid,Time 0,Cyclonic,5,947939.5714
+2017-07-04T08:55:00,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,Control,Cyclonic,5,963162.75
+2017-07-04T08:55:01,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,Deep Sea Water,Cyclonic,5,978385.9286
+2017-07-04T08:55:02,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,B12,Cyclonic,5,993609.1071
+2017-07-04T08:55:03,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,noB12,Cyclonic,5,1008832.286
+2017-07-04T08:55:04,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,DMB,Cyclonic,5,1024055.464
+2017-07-04T08:55:00,25,158.5,25,2-Hydroxy-4-(methylthio)butyric acid,DMBnoB12,Cyclonic,5,1039278.643
+2017-010-04T016:00:00,27,157,15,2-Hydroxy-4-(methylthio)butyric acid,Time 0,Anticyclonic,0.2,963162.75
+2017-010-04T016:00:01,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,Control,Anticyclonic,0.2,978385.9286
+2017-010-04T016:00:02,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,Deep Sea Water,Anticyclonic,0.2,993609.1071
+2017-010-04T016:00:03,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,B12,Anticyclonic,0.2,1008832.286
+2017-010-04T016:00:04,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,noB12,Anticyclonic,0.2,1024055.464
+2017-010-04T016:00:05,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,DMB,Anticyclonic,0.2,1039278.643
+2017-010-04T016:00:06,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,DMBnoB12,Anticyclonic,0.2,1054501.821
+2017-010-04T016:00:07,27,157,15,2-Hydroxy-4-(methylthio)butyric acid,Time 0,Anticyclonic,5,1069725
+2017-010-04T016:00:08,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,Control,Anticyclonic,5,1084948.179
+2017-010-04T016:00:09,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,Deep Sea Water,Anticyclonic,5,1100171.357
+2017-010-04T016:00:10,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,B12,Anticyclonic,5,1115394.536
+2017-010-04T016:00:11,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,noB12,Anticyclonic,5,1130617.714
+2017-010-04T016:00:12,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,DMB,Anticyclonic,5,1145840.893
+2017-010-04T016:00:13,27,157,25,2-Hydroxy-4-(methylthio)butyric acid,DMBnoB12,Anticyclonic,5,1161064.071
+2017-07-04T08:55:00,25,158.5,15,3 Sulfopyruvic acid,Time 0,Cyclonic,0.2,30995
+2017-07-04T08:55:00,25,158.5,25,3 Sulfopyruvic acid,Control,Cyclonic,0.2,195719
+2017-07-04T08:55:01,25,158.5,25,3 Sulfopyruvic acid,Deep Sea Water,Cyclonic,0.2,338593
+2017-07-04T08:55:02,25,158.5,25,3 Sulfopyruvic acid,B12,Cyclonic,0.2,1334322
+2017-07-04T08:55:03,25,158.5,25,3 Sulfopyruvic acid,noB12,Cyclonic,0.2,947939.5714
+2017-07-04T08:55:04,25,158.5,25,3 Sulfopyruvic acid,DMB,Cyclonic,0.2,963162.75
+2017-07-04T08:55:00,25,158.5,25,3 Sulfopyruvic acid,DMBnoB12,Cyclonic,0.2,978385.9286
+2017-07-04T08:55:00,25,158.5,15,3 Sulfopyruvic acid,Time 0,Cyclonic,5,993609.1071
+2017-07-04T08:55:00,25,158.5,25,3 Sulfopyruvic acid,Control,Cyclonic,5,1008832.286
+2017-07-04T08:55:01,25,158.5,25,3 Sulfopyruvic acid,Deep Sea Water,Cyclonic,5,1024055.464
+2017-07-04T08:55:02,25,158.5,25,3 Sulfopyruvic acid,B12,Cyclonic,5,1039278.643
+2017-07-04T08:55:03,25,158.5,25,3 Sulfopyruvic acid,noB12,Cyclonic,5,963162.75
+2017-07-04T08:55:04,25,158.5,25,3 Sulfopyruvic acid,DMB,Cyclonic,5,978385.9286
+2017-07-04T08:55:00,25,158.5,25,3 Sulfopyruvic acid,DMBnoB12,Cyclonic,5,993609.1071
+2017-010-04T016:00:00,27,157,15,3 Sulfopyruvic acid,Time 0,Anticyclonic,0.2,1008832.286
+2017-010-04T016:00:01,27,157,25,3 Sulfopyruvic acid,Control,Anticyclonic,0.2,1024055.464
+2017-010-04T016:00:02,27,157,25,3 Sulfopyruvic acid,Deep Sea Water,Anticyclonic,0.2,1039278.643
+2017-010-04T016:00:03,27,157,25,3 Sulfopyruvic acid,B12,Anticyclonic,0.2,1054501.821
+2017-010-04T016:00:04,27,157,25,3 Sulfopyruvic acid,noB12,Anticyclonic,0.2,1069725
+2017-010-04T016:00:05,27,157,25,3 Sulfopyruvic acid,DMB,Anticyclonic,0.2,1084948.179
+2017-010-04T016:00:06,27,157,25,3 Sulfopyruvic acid,DMBnoB12,Anticyclonic,0.2,1100171.357
+2017-010-04T016:00:07,27,157,15,3 Sulfopyruvic acid,Time 0,Anticyclonic,5,1115394.536
+2017-010-04T016:00:08,27,157,25,3 Sulfopyruvic acid,Control,Anticyclonic,5,1130617.714
+2017-010-04T016:00:09,27,157,25,3 Sulfopyruvic acid,Deep Sea Water,Anticyclonic,5,1145840.893
+2017-010-04T016:00:10,27,157,25,3 Sulfopyruvic acid,B12,Anticyclonic,5,1161064.071
+2017-010-04T016:00:11,27,157,25,3 Sulfopyruvic acid,noB12,Anticyclonic,5,1176287.25
+2017-010-04T016:00:12,27,157,25,3 Sulfopyruvic acid,DMB,Anticyclonic,5,1191510.429
+2017-010-04T016:00:13,27,157,25,3 Sulfopyruvic acid,DMBnoB12,Anticyclonic,5,1206733.607
